@@ -20,12 +20,6 @@ header {
     padding: 2em 0;
 }
 
-header h1 {
-    font-size: 4.28em;
-    text-align: center;
-    font-weight: 800;
-}
-
 header img {
     display: block;
     margin-left: auto;
@@ -70,6 +64,7 @@ section ul {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: auto;
+    grid-column-gap: 2em;
 }
 
 #projects article{
