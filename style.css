@@ -8,11 +8,6 @@ h1, h2, h3 {
     color: black;
 }
 
-h3 {
-    color: whitesmoke;
-    font-weight: 800;
-    text-decoration: bolder;
-}
 
 header h1 {
     font-size: 4.28em;
@@ -30,6 +25,13 @@ header span {
 header img {
     width: 40%;
     border: 2px solid #5E5B52;
+}
+
+h3 {
+    font-size: 22px;
+    color: whitesmoke;
+    font-weight: 800;
+    text-decoration: bolder;
 }
 
 
