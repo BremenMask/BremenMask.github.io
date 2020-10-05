@@ -3,6 +3,9 @@
     line-height: 2em;
 } 
    
+html {
+    font-size: 18px;
+}
 
 h1, h2, h3 {
     color: black;
