@@ -16,6 +16,7 @@ header h1 {
     font-size: 4.28em;
     text-align: center;
     font-weight: 800;
+    margin-bottom: 5%;
 }
 
 header span {
@@ -28,15 +29,21 @@ header span {
 header img {
     width: 40%;
     border: 2px solid #5E5B52;
+    margin-bottom: 8%;
 }
+
+h2{
+    text-align: center;
+}
+
 
 h3 {
     font-size: 22px;
     color: whitesmoke;
-    font-weight: 800;
+    font-weight: 900;
     text-decoration: bolder;
+    padding-bottom: 10%;
 }
-
 
 nav {
     background: #191716;
