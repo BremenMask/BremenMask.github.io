@@ -29,8 +29,17 @@ header span {
 
 header img {
   width: 40%;
-  border: 2px solid #5e5b52;
+  border: 2px solid red;
   margin-bottom: 8%;
+}
+
+hr {
+  border: none;
+  margin: 200px;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
 }
 
 h2 {
