@@ -1,83 +1,82 @@
 * {
-    font-family: cambria;
-    line-height: 2em;
-} 
-   
+  font-family: cambria;
+  line-height: 2em;
+}
+
 html {
-    font-size: 18px;
+  font-size: 18px;
 }
 
-h1, h2, h3 {
-    color: black;
+h1,
+h2,
+h3 {
+  color: black;
 }
-
 
 header h1 {
-    font-size: 4.28em;
-    text-align: center;
-    font-weight: 800;
-    margin-bottom: 5%;
+  font-size: 4.28em;
+  text-align: center;
+  font-weight: 800;
+  margin-bottom: 5%;
 }
 
 header span {
-    font-size: 1.5em;
-    color: gray;
-    text-align: center;
-    font-weight: 500;
+  font-size: 1.5em;
+  color: gray;
+  text-align: center;
+  font-weight: 500;
 }
 
 header img {
-    width: 40%;
-    border: 2px solid #5E5B52;
-    margin-bottom: 8%;
+  width: 40%;
+  border: 2px solid #5e5b52;
+  margin-bottom: 8%;
 }
 
-h2{
-    text-align: center;
+h2 {
+  text-align: center;
 }
-
 
 h3 {
-    font-size: 22px;
-    color: whitesmoke;
-    font-weight: 900;
-    text-decoration: bolder;
-    padding-bottom: 10%;
+  font-size: 22px;
+  color: whitesmoke;
+  font-weight: 900;
+  text-decoration: bolder;
+  padding-bottom: 10%;
 }
 
 nav {
-    background: #191716;
+  background: #191716;
 }
 
 nav a {
-    text-decoration: underline;
-    color: white;
-    font-weight: 700;
+  text-decoration: underline;
+  color: white;
+  font-weight: 700;
 }
 
 nav a:hover {
-    background: gray;
+  background: gray;
+  transition: 3s;
 }
 
-
 #projects {
-    color: whitesmoke;
+  color: whitesmoke;
 }
 
 #projects article {
-    background: #191716;
+  background: #191716;
 
-    text-align: center;
-    font-weight: 700;
+  text-align: center;
+  font-weight: 700;
 }
 
 #projects article img {
-    width: 100%;
-    border: 2px solid #5E5B52;
+  width: 100%;
+  border: 2px solid #5e5b52;
 }
 
-
 footer {
-    background:#191716;
-    color: white;
+  background: #191716;
+  color: white;
 }
