@@ -57,7 +57,7 @@ nav a {
 
 nav a:hover {
   background: gray;
-  transition: 3s;
+  transition: 2s;
 }
 
 #projects {
@@ -75,6 +75,12 @@ nav a:hover {
   width: 100%;
   border: 2px solid #5e5b52;
 }
+
+/* ul li {
+  background: red;
+  padding: 6px;
+  list-style-position: inside;
+} */
 
 footer {
   background: #191716;
