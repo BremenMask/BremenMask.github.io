@@ -34,12 +34,8 @@ header img {
 }
 
 hr {
-  border: none;
-  margin: 200px;
-  background-color: red;
-  display: flex;
-  justify-content: center;
-  padding: 1rem;
+  margin: 1rem 0;
+  border: 1.4px solid red;
 }
 
 h2 {
@@ -85,10 +81,12 @@ nav a:hover {
   border: 2px solid #5e5b52;
 }
 
-/* ul li {
+/* li {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   background: red;
-  padding: 6px;
-  list-style-position: inside;
+  padding: 1rem;
 } */
 
 footer {
